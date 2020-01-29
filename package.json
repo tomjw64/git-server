@@ -1,0 +1,15 @@
+{
+  "name": "git-server",
+  "version": "0.0.0",
+  "description": "A git http server for development only - based on gpusher by cirocosta",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gpusher": "^2.2.0"
+  }
+}
